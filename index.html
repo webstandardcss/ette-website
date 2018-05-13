@@ -76,5 +76,90 @@
       </ul>
     </nav>
   </header>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.default.min.css">
+  
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    
+    .wrapper {
+      width: 100%;
+      margin: 0 auto;
+    }
+    
+    .owl-carousel {
+      list-style: none;
+      padding: 0;
+      margin-top: 24px;
+    }
+    
+    .owl-item:nth-child(2n) {
+      background: #bd0000;
+    }
+    
+    .owl-item img {
+      opacity: 1;
+      width: 100%;
+    }
+    
+    .owl-item img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+    
+    .owl-theme .owl-controls {
+    margin-top: -30px;
+  }
+  
+  .owl-theme .owl-controls .owl-page span {
+    width: 10px;
+    height: 10px;
+    filter: Alpha(Opacity=100);
+    opacity: 0.4;
+    background: #fff;
+  }
+  
+  .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
+    filter: Alpha(Opacity=100);
+    opacity: 0.99;
+  }
+    
+    @media screen and (max-width: 640px) {
+      .wrapper {
+        width: 100%;
+      }
+    }
+  </style>
+  
+  <div class="wrapper">
+    <ul class="owl-carousel">
+      <li><img src="assets/images/home/header-slider-image1.png" alt=""></li>
+      <li><img src="assets/images/home/header-slider-image1.png" alt=""></li>
+      <li><img src="assets/images/home/header-slider-image1.png" alt=""></li>
+    </ul>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js">
+
+  </script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $(".owl-carousel").owlCarousel({
+        items: 1,
+        singleItem: true,
+        itemsScaleUp: true,
+        slideSpeed: 500,
+        autoPlay: 2500,
+        stopOnHover: true,
+        autoPlay: true
+      });
+    });
+  </script>
+
 </body>
 </html>
