@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.owl-carousel {
+  list-style: none;
+  padding: 0;
+  margin-top: 24px;
+}
+
+.owl-item:nth-child(2n) {
+  background: #bd0000;
+}
+
+.owl-item img {
+  opacity: 1;
+  width: 100%;
+}
+
+.owl-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.owl-theme .owl-controls {
+margin-top: -30px;
+}
+
+.owl-theme .owl-controls .owl-page span {
+width: 10px;
+height: 10px;
+filter: Alpha(Opacity=100);
+opacity: 0.4;
+background: #fff;
+}
+
+.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
+filter: Alpha(Opacity=100);
+opacity: 0.99;
+}
+
+@media screen and (max-width: 640px) {
+  .wrapper {
+    width: 100%;
+  }
+}
