@@ -1,11 +1,21 @@
 body {
     background-image: url(../images/bg-steel.png);
     background-color: black;
+    color: rgba(255, 255, 255, .75);
     min-height: 100vh;
 }
 
 .header-nav {
 
+}
+
+figcaption {
+  text-align: center;
+}
+
+figure img {
+  display: block;
+  margin: 0 auto;
 }
 
 .header-top-social {
@@ -116,6 +126,36 @@ body {
   background-color: rgba(0, 0, 0, .125);
   text-shadow: 0 0 0 transparent;
   color: rgba(255, 255, 255, .75);
+}
+
+.main-outer {
+  max-width: 1086px;
+  margin: 0 auto;
+  background-color: rgba(0, 0, 0, .85)
+}
+
+.main-description {
+  padding: 48px;
+}
+
+.home-elite {
+  width: 100%;
+}
+
+.list-services-item {
+  display: block;
+  width: 40%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 24px 0 0;
+  height: 48px;
+  border: solid white 1px;
+  border-right: none;
+  border-left: none;
+}
+
+footer {
+  text-align: center;
 }
 
 @media only screen and (min-width: 1024px) {
