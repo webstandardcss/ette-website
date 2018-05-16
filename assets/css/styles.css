@@ -3,14 +3,20 @@ body {
     background-color: black;
     color: rgba(255, 255, 255, .75);
     min-height: 100vh;
+    font-family: Helvetica, 'Helvetica Neue', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 .header-nav {
 
 }
 
+.header-top {
+  padding-top: 24px;
+}
+
 figcaption {
   text-align: center;
+  margin: 12px auto 24px;
 }
 
 figure img {
@@ -20,7 +26,7 @@ figure img {
 
 .header-top-social {
   width: 144px;
-  margin: 24px auto;
+  margin: 36px auto 24px;
 }
 
 .header-top-logo {
@@ -135,16 +141,25 @@ figure img {
 }
 
 .main-description {
-  padding: 48px;
+  padding: 72px 48px 48px 48px;
+}
+
+.featured-brands {
+  margin-bottom: 48px;
 }
 
 .home-elite {
   width: 100%;
 }
 
+.list-services {
+  margin-top: 48px;
+  margin-bottom: 48px;
+}
+
 .list-services-item {
   display: block;
-  width: 40%;
+  width: 60%;
   text-align: center;
   margin: 0 auto;
   padding: 24px 0 0;
@@ -152,10 +167,18 @@ figure img {
   border: solid white 1px;
   border-right: none;
   border-left: none;
+  background-image: url(../images/bg-steel-bottom.png)
 }
 
-footer {
+.list-services-item:hover {
+  background-image: none;
+  background-color: #333;
+}
+
+.footer-outer {
   text-align: center;
+  line-height: 2em;
+  margin: 48px auto;
 }
 
 @media only screen and (min-width: 1024px) {
