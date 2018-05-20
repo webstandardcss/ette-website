@@ -164,6 +164,16 @@ figure img {
 
 .featured-brands-item {}
 
+
+.flex-center {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+  margin-bottom: 0px;
+}
+
+.flex-center-item {}
+
 .home-elite {
   width: 100%;
 }
