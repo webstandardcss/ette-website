@@ -297,3 +297,11 @@ figure img {
     font-size: .75em;
   }
 }
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {  
+  /* IE10+ specific styles go here */
+  .featured-services-item {
+    position: relative;
+    left: -36px;
+  }
+}
