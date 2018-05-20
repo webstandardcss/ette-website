@@ -9,18 +9,15 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
-  <main class="ob-main flex-container">
-    <h1>Welcome to East Texas Truck Equipment!</h1>
-    <p>It all began </p>
-	  <div class="product">
-      <div class="product-row flex-container">
-        <img class="product-image" src="obf/..." alt="" />
-        <div class="product-description">
-          <h3></h3>
-          <p></p>
-        </div>
-      </div>
-    </div>
-    
+
+<div class="main-outer">
+  <aside class="main-content-before"></aside>
+  <main class="main-content">
+    <h4 class="main-description">At East Texas Truck Equipment </h4>      
+
+    <!-- <img class="home-elite" src="assets/images/home/eliteautoassociation.png" alt="Elite Auto Association"> -->
   </main>
+  <aside class="main-content-after"></aside>
+</div>
+
 <?php require_once dirname(__FILE__) . "/inc/footer.php"; ?>
