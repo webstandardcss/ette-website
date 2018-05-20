@@ -10,8 +10,19 @@ body {
 
 }
 
+a {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
 .header-top {
   padding-top: 24px;
+  display: flex;
 }
 
 figcaption {
@@ -135,7 +146,7 @@ figure img {
 }
 
 .main-outer {
-  max-width: 1086px;
+  max-width: 1280px;
   margin: 0 auto;
   background-color: rgba(0, 0, 0, .85)
 }
@@ -145,29 +156,56 @@ figure img {
 }
 
 .featured-brands {
-  margin-bottom: 48px;
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+  margin-bottom: 0px;
 }
+
+.featured-brands-item {}
 
 .home-elite {
   width: 100%;
 }
 
+.featured-services {
+  margin: 0 auto;
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, .75);
+}
+
+.featured-services-item {
+  margin: 0 auto;
+  padding: 24px;
+  color: #223;
+  text-align: center;
+}
+
 .list-services {
-  margin-top: 48px;
-  margin-bottom: 48px;
+  margin: 24px;
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+  background-image: url(../images/bg-steel-bottom.png);
+  border: solid 1px white;
+  border-left: none;
+  border-right: none;
+  padding-bottom: 24px;
 }
 
 .list-services-item {
-  display: block;
-  width: 60%;
   text-align: center;
-  margin: 0 auto;
-  padding: 24px 0 0;
-  height: 48px;
-  border: solid white 1px;
-  border-right: none;
-  border-left: none;
-  background-image: url(../images/bg-steel-bottom.png)
+  margin: 24px;
+  margin-bottom: 0;
+  padding: 12px 0 0;
+  height: 36px;
+}
+
+
+.list-services-item::after { 
+  content: "";
 }
 
 .list-services-item:hover {
@@ -179,6 +217,15 @@ figure img {
   text-align: center;
   line-height: 2em;
   margin: 48px auto;
+}
+
+.footer-outer a {
+  margin: 30px;
+  font-weight: bold;
+}
+
+.footer-links {
+  margin-top: 24px;
 }
 
 @media only screen and (min-width: 1024px) {
@@ -242,5 +289,11 @@ figure img {
 
   .header-nav li:hover > input[type="checkbox"] + .sub-menu {
     display: block;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+  .list-services {
+    font-size: .75em;
   }
 }
