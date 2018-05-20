@@ -12,8 +12,8 @@ Copy and rename blank.php
 Use all lowercase, no spaces or underscores, only-separate-words-with-dashes in classes, attributes, and filenames.
 
 #### TODO
-1. TODO Create PHP Pages
-1. TODO Create Sample Content Page Areas for Luis to use when making pages
+1. TODO Create PHP Pages - DONE
+1. TODO Create Sample Content Page Areas for Luis to use when making pages - DONE
 1. TODO Create Contact Form Areas for Luis to use when making forms
 1. TODO Implement Tipue Search or Google API search 
   * http://www.tipue.com/beaty/
