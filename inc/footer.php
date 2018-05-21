@@ -2,19 +2,19 @@
     <aside class="footer-content-before"></aside>
     <div class="footer-content">
       <div class="footer-brand">
-        <span class="footer-name">East Texas Truck Equipment</span> 
+        <h3 class="footer-name"><a href="/">East Texas Truck Equipment</a></h3> 
         <address class="footer-address">
           5685 East Loop 281 South Longview TX 75602 
         </address>
       </div>
       <div class="footer-telephone">
-        <span>Phone: (903) 758-6171</span>
-        <span>Toll-Free: (800) 657-5225</span>
+        <span>Phone: <a href="tel:+19037589171">(903) 758-6171</a></span>
+        <span>Toll-Free: <a href="tel:+18006575225">(800) 657-5225</a></span>
       </div>
       <div class="footer-links">
         <a href="">About Us</a>
         <a href="">Services</a>
-        <a href="">Contact&nbsp;Us</a>
+        <a href="/contact-us.php">Contact&nbsp;Us</a>
       </div>
     </div>
     <aside class="footer-content-after"></aside>
