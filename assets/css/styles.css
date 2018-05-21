@@ -151,6 +151,12 @@ figure img {
   background-color: rgba(0, 0, 0, .85)
 }
 
+.main-primary {
+  max-width: 700px;
+  padding: 24px;
+  margin: 0 auto;
+}
+
 .main-description {
   padding: 72px 48px 48px 48px;
 }
