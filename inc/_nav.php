@@ -10,7 +10,7 @@
           <input id="sm0" type="checkbox">
           <ul class="sub-menu">
             <li><a href="/mockup.html">HTML MOCKUP PAGE</a></li>
-            <li><a href="#">Item 1.2</a></li>
+            <li><a href="location.php">Our Location</a></li>
             <li><a href="#">Item 1.3</a></li>
             <li><a href="#">Item 1.4</a></li>
           </ul>
