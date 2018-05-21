@@ -12,20 +12,22 @@ $extraCss = array("forms");
 <div class="main-outer">
   <aside class="main-content-before"></aside>
   <main class="main-content">
-    <h1>Contact Us</h1>
-    <h3>By Phone:</h3>
-    <p>
-      If you are in the Longview, Texas region, please call us at <a href="tel:+19037586171">903-758-6171</a>
-    </p>
-    <p>
-      If you are outside the Longview calling area, please call us at <a href="tel:+18006575225">800-657-5225</a>
-    </p>
-    <h3>
-      Contact Us Form
-    </h3>
-    <small>
-      We would love to hear from you! Please fill out this form and we will get in touch with you shortly.  
-    </small>
+    <article class="main-contact-us main-primary">
+      <h1>Contact Us</h1>
+      <h3>By Phone:</h3>
+      <p>
+        If you are in the Longview, Texas region, please call us at <a href="tel:+19037586171">903-758-6171</a>
+      </p>
+      <p>
+        If you are outside the Longview calling area, please call us at <a href="tel:+18006575225">800-657-5225</a>
+      </p>
+      <h3>
+        Contact Us Form
+      </h3>
+      <small>
+        We would love to hear from you! Please fill out this form and we will get in touch with you shortly.  
+      </small>
+    </article>
     <div class="form gform-contact">
       <div class="gform_wrapper" id="gform_wrapper_1">
       <form method="post" enctype="multipart/form-data" id="gform_1" action="http://ette.tv/obf/mail/mail.php">
