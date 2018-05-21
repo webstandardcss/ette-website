@@ -21,8 +21,7 @@
           </a>
           <input id="sm1" type="checkbox">
           <ul class="sub-menu">
-            <li><a href="#">Item 2.1</a></li>
-            <li><a href="#">Item 2.2
+            <!-- <li><a href="#">Item 2.2
                 <span class="drop-icon">▸</span>
                 <label title="Toggle Drop-down" class="drop-icon" for="sm2">▾</label>
               </a>
@@ -32,7 +31,9 @@
                 <li><a href="#">Item 2.2.2</a></li>
                 <li><a href="#">Item 2.2.3</a></li>
               </ul>
-            </li>
+            </li> -->
+            <li><a href="#">Item 2.1</a></li>
+            <li><a href="#">Item 2.2</a></li>
             <li><a href="#">Item 2.3</a></li>
           </ul>
         </li>
@@ -51,7 +52,20 @@
               <li><a href="">4.4</a></li>
             </ul>    
         </li>
-        <li><a href="#">The Gallery</a></li>
+        <li><a href="#">The Gallery
+              <span class="drop-icon">▾</span>
+                <label title="Toggle Drop-down" class="drop-icon" for="sm8">▾</label>
+              </a>
+              <input id="sm8" type="checkbox">
+            
+            <ul class="sub-menu">
+              <li><a href="">4.1</a></li>
+              <li><a href="">4.2</a></li>
+              <li><a href="">4.2</a></li>
+              <li><a href="">4.4</a></li>
+            </ul>    
+        </li>
+        
         <li><a href="#">Contact Us</a></li>
       </ul>
     </nav>
