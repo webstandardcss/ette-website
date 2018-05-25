@@ -314,6 +314,31 @@ figure img {
   }
 }
 
+@media only screen and (max-width: 480px) {
+  .header-top {
+    display: flex;
+    flex-direction: column;
+    flex-flow: wrap;
+  }
+  .header-top-logo {
+    margin-top: 24px;
+    max-height: 96px;
+  }
+}
+
+
+@media only screen and (max-width: 320px) {
+  .header-top-logo {
+    max-height: 64px;
+  }
+}
+
+@media only screen and (max-width: 230px) {
+  .header-top-logo {
+    max-height: 48px;
+  }
+}
+
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {  
   /* IE10+ specific styles go here */
   .featured-services-item {
