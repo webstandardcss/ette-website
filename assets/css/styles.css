@@ -6,6 +6,34 @@ body {
     font-family: Helvetica, 'Helvetica Neue', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
+.align-left {
+  float: left;
+}
+
+.align-right {
+  float: right;
+}
+
+.align-center {
+  margin: 0 auto;
+}
+
+.margin-48 {
+  margin: 48px;
+}
+
+.margin-24 {
+  margin: 24px;
+}
+
+.margin-12 {
+  margin: 12px;
+}
+
+.margin-6 {
+  margin: 6px;
+}
+
 .header-nav {
 
 }
@@ -250,6 +278,7 @@ figure img {
 }
 
 @media only screen and (min-width: 1024px) {
+
   .header-nav {
     background-color: transparent;
   }
@@ -367,3 +396,5 @@ figure img {
     left: -36px;
   }
 }
+
+
