@@ -180,6 +180,15 @@ figure img {
   display: flex;
 }
 
+.main-content-page {
+  margin: 24px;
+}
+
+.main-content-page-image {
+  float: left;
+  margin: 24px;
+}
+
 .main-content-after {
   display: none;
 }
