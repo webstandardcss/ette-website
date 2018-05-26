@@ -3,14 +3,15 @@
       <input id="tm" type="checkbox">
       <ul class="main-menu cf">
         <li><a href="/index.php">Home</a></li>
-        <li><a href="#">About Us
+        <li><a href="/about-us.php">About Us
             <span class="drop-icon">▾</span>
             <label title="Toggle Drop-down" class="drop-icon" for="sm0">▾</label>
           </a>
           <input id="sm0" type="checkbox">
           <ul class="sub-menu">
             <li><a href="/mockup.html">HTML MOCKUP PAGE</a></li>
-            <li><a href="location.php">Our Location</a></li>
+            <li><a href="/blank.php">BLANK PAGE</a></li>
+            <li><a href="/location.php">Our Location</a></li>
             <li><a href="#">Item 1.3</a></li>
             <li><a href="#">Item 1.4</a></li>
           </ul>
@@ -52,7 +53,7 @@
               <li><a href="">4.4</a></li>
             </ul>    
         </li>
-        <li><a href="#">The Gallery
+        <li><a href="/gallery.php">The Gallery
               <span class="drop-icon">▾</span>
                 <label title="Toggle Drop-down" class="drop-icon" for="sm8">▾</label>
               </a>
