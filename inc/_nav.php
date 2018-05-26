@@ -40,7 +40,7 @@
         </li>
         <li><a href="#">Blog</a></li>
         <li><a href="/product-lines.php">Product Lines</a></li>
-        <li><a href="#">Services
+        <li><a href="/services.php">Services
               <span class="drop-icon">▾</span>
                 <label title="Toggle Drop-down" class="drop-icon" for="sm8">▾</label>
               </a>
