@@ -34,6 +34,10 @@ body {
   margin: 6px;
 }
 
+.list-block {
+  display: block;
+}
+
 .header-nav {
 
 }
