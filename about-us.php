@@ -1,7 +1,7 @@
 <?php require_once dirname(__FILE__) . "/inc/config.php"; ?>
 
 <?php // Page data
-$pageTitle = "Homepage";
+$pageTitle = "About Us";
 $pageTitleTag = $pageTitle . " " . $siteName;
 $pageDescription = $siteName  . "  " . $pageTitle;
 $pageKeywords = $pageTitle . "  " . $siteKeywords;
@@ -15,7 +15,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
   <main class="main-content main-content-page main-content-page-about">
     <img class="main-content-page-image" src="/obf/images/about-us/ette_owners.jpg" alt="ETTE Owners">
     <h1>
-      About Us
+      <?php echo $pageTitle; ?>
     </h1>
     <article>
       <p>East Texas Truck Equipment, (ETTE) opened it’s doors on May 1, 1976. The company’s owners and only employees were Hubert Green, Clayton Davis, and Patsy Davis. The business centered around sales and repair of large truck and trailer equipment, and sales of parts for these pieces of equipment. The orginal building was 6,000 square feet and was quickly out grown.</p>
@@ -34,7 +34,3 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 </div>
 
 <?php require_once dirname(__FILE__) . "/inc/footer.php"; ?>
-
-
-
-
