@@ -30,7 +30,7 @@ $extraCss = array("forms");
     </article>
     <div class="form gform-contact">
       <div class="gform_wrapper" id="gform_wrapper_1">
-      <form method="post" enctype="multipart/form-data" id="gform_1" action="http://ette.tv/obf/mail/mail.php">
+      <form method="post" enctype="multipart/form-data" id="gform_1" action="http:/ettenew.com/obf/mail/mail.php">
         <input type="hidden" name="recipients" value="myaddress" />
             <input type="hidden" name="good_url" value="/" />
             <input type="hidden" name="subject" value="ETTE Contact Us Form" />
