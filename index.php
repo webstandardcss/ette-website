@@ -72,7 +72,9 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
       </div>
       <img class="home-elite" src="assets/images/home/eliteautoassociation.png" alt="Elite Auto Association">
     </main>
-    <aside class="main-content-after"></aside>
+    <!-- <aside class="main-content-after">
+      <?php // require_once dirname(__FILE__) . "/inc/facebook.php"; ?>
+    </aside> -->
   </div>
 
   

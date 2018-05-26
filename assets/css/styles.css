@@ -148,7 +148,12 @@ figure img {
 .main-outer {
   max-width: 1280px;
   margin: 0 auto;
-  background-color: rgba(0, 0, 0, .85)
+  background-color: rgba(0, 0, 0, .85);
+  display: flex;
+}
+
+.main-content-after {
+  display: none;
 }
 
 .main-primary {
@@ -312,15 +317,31 @@ figure img {
   .list-services {
     font-size: .75em;
   }
+
+  .main-content-after {
+    display: flex;
+    margin: 48px 24px 24px 24px;
+  }
+
 }
 
-@media only screen and (max-width: 480px) {
-  .header-top {
+
+
+@media only screen and (max-width: 1024px) {
+  .main-outer {
     display: flex;
     flex-direction: column;
     flex-flow: wrap;
   }
-  .header-top-logo {
+}
+
+  @media only screen and (max-width: 480px) {
+    .header-top {
+      display: flex;
+      flex-direction: column;
+      flex-flow: wrap;
+    }
+    .header-top-logo {
     margin-top: 24px;
     max-height: 96px;
   }

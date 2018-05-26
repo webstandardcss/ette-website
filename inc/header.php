@@ -26,6 +26,14 @@
   <?php } ?>
 </head>
 <body>
+<div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=101914593180765&autoLogAppEvents=1';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
   <header class="header-outer">
     <div class="header-top">
       <img class="header-top-logo" src="assets/images/logo.png" alt="East Texas Truck Equipment">
