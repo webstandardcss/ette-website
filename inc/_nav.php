@@ -12,11 +12,9 @@
             <li><a href="/mockup.html">HTML MOCKUP PAGE</a></li>
             <li><a href="/blank.php">BLANK PAGE</a></li>
             <li><a href="/location.php">Our Location</a></li>
-            <li><a href="#">Item 1.3</a></li>
-            <li><a href="#">Item 1.4</a></li>
           </ul>
         </li>
-        <li><a href="#">Accessories 
+        <li><a href="/accessories.php">Accessories 
             <span class="drop-icon">▾</span>
             <label title="Toggle Drop-down" class="drop-icon" for="sm1">▾</label>
           </a>
@@ -33,9 +31,17 @@
                 <li><a href="#">Item 2.2.3</a></li>
               </ul>
             </li> -->
-            <li><a href="#">Item 2.1</a></li>
-            <li><a href="#">Item 2.2</a></li>
-            <li><a href="#">Item 2.3</a></li>
+            <li><a href="/accessories-bumpers.php">Bumpers</a></li>
+            <li><a href="/accessories-cab-steps.php">Cab Steps</a></li>
+            <li><a href="/accessories-grills.php">Grills</a></li>
+            <li><a href="/accessories-interior.php">Interior</a></li>
+            <li><a href="/accessories-lights.php">Lights</a></li>
+            <li><a href="/accessories-performance.php">Performance</a></li>
+            <li><a href="/accessories-spray-liners.php">Spray-In Liners</a></li>
+            <li><a href="/accessories-tonneau.php">Tonneau Covers</a></li>
+            <li><a href="/accessories-tool-boxes.php">Tool Boxes</a></li>
+            <li><a href="/accessories-towing.php">Towing</a></li>
+            <li><a href="/accessories-winches.php">Winches</a></li>
           </ul>
         </li>
         <li><a href="#">Blog</a></li>
@@ -48,9 +54,6 @@
             
             <ul class="sub-menu">
               <li><a href="/heavy-truck-services.php">Heavy Truck Services</a></li>
-              <li><a href="">4.2</a></li>
-              <li><a href="">4.2</a></li>
-              <li><a href="">4.4</a></li>
             </ul>    
         </li>
         <li><a href="/gallery.php">The Gallery
@@ -60,10 +63,9 @@
               <input id="sm8" type="checkbox">
             
             <ul class="sub-menu">
-              <li><a href="">4.1</a></li>
-              <li><a href="">4.2</a></li>
-              <li><a href="">4.2</a></li>
-              <li><a href="">4.4</a></li>
+              <li><a href="/gallery-suv.php">SUV&rsquo;s</a></li>
+              <li><a href="/gallery-accessories.php">Truck Accessories</a></li>
+              <li><a href="/gallery-trucks.php">Trucks</a></li>
             </ul>    
         </li>
         
