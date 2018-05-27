@@ -1,7 +1,7 @@
 <?php require_once dirname(__FILE__) . "/inc/config.php"; ?>
 
 <?php // Page data
-$pageTitle = "Gallery";
+$pageTitle = "ETTE Gallery";
 $pageTitleTag = $pageTitle . " " . $siteName;
 $pageDescription = $siteName  . "  " . $pageTitle;
 $pageKeywords = $pageTitle . "  " . $siteKeywords;
@@ -9,21 +9,29 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
-<?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
 
 <div class="main-outer">
   <aside class="main-content-before"></aside>
-  <main class="main-content">
-    <h1>ETTE Gallery</h1>
-    <h4 class="main-description">At East Texas Truck Equipment </h4> 
-  
+  <main class="main-content main-content-page main-content-page-about">
+    <!-- <img class="main-content-page-image" src="/obf/images/about-us/ette_owners.jpg" alt="ETTE Owners"> -->
+    <h1>
+      <?php echo $pageTitle; ?>
+    </h1>
     
+    <hr />
     
-	  <div class="product-small">
-        <h2><a href="/obf/photo-gallery" target="_blank">Gallery</a></h2>
-    </div>
-    
+    <p>
+      East Texas Truck Equipment Photo Galleries:
+    </p>
+
+    <hr />
+
+    <?php require_once dirname(__FILE__) . "/inc/categories-gallery.php"; ?>
+    <!-- <img class="home-elite" src="assets/images/home/eliteautoassociation.png" alt="Elite Auto Association"> -->
   </main>
-  <aside class="main-content-after"></aside>
+  <aside class="main-content-after">
+    <?php require_once dirname(__FILE__) . "/inc/facebook.php"; ?>
+  </aside>
 </div>
+
 <?php require_once dirname(__FILE__) . "/inc/footer.php"; ?>
