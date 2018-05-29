@@ -19,6 +19,10 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
     </h1>
     <?php require_once dirname(__FILE__) . "/inc/text-gallery.php"; ?>
     <hr />
+
+
+    
+    <hr />
     <?php require_once dirname(__FILE__) . "/inc/categories-gallery.php"; ?>
     <!-- <img class="home-elite" src="assets/images/home/eliteautoassociation.png" alt="Elite Auto Association"> -->
   </main>

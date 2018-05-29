@@ -1,14 +1,14 @@
-<div class="featured-brands">
-      <a href=""><figure class="featured-brands-item">
-        <img src="/obf/images/accessories/brands/bulldogwinch.jpg" alt="SUVs" />
+    <div class="featured-brands">
+      <a href="/gallery-suv.php"><figure class="featured-brands-item">
+        <img src="/obf/images/gallery/hummer_accessory.jpg" alt="SUVs" />
         <figcaption>SUV&rsquo;s</figcaption>
       </figure></a>
-      <a href=""><figure class="featured-brands-item">
-        <img src="/obf/images/accessories/brands/warn.jpg" alt="Truck Accessories" />
+      <a href="/gallery-truck-accessories.php"><figure class="featured-brands-item">
+        <img src="/obf/images/gallery/grill_guards1.jpg" alt="Truck Accessories" />
         <figcaption>Truck Accessories</figcaption>
       </figure></a>
-      <a href=""><figure class="featured-brands-item">
-        <img src="/obf/images/accessories/brands/warn.jpg" alt="Trucks" />
+      <a href="/gallery-trucks.php"><figure class="featured-brands-item">
+        <img src="/obf/images/gallery/truck_front.jpg" alt="Trucks" />
         <figcaption>Trucks</figcaption>
       </figure></a>
     </div>

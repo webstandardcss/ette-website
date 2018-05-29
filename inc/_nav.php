@@ -63,7 +63,7 @@
             
             <ul class="sub-menu">
               <li><a href="/gallery-suv.php">SUV&rsquo;s</a></li>
-              <li><a href="/gallery-accessories.php">Truck Accessories</a></li>
+              <li><a href="/gallery-truck-accessories.php">Truck Accessories</a></li>
               <li><a href="/gallery-trucks.php">Trucks</a></li>
             </ul>    
         </li>
