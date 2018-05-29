@@ -43,7 +43,7 @@
             <li><a href="/accessories-winches.php">Winches</a></li>
           </ul>
         </li>
-        <li><a href="#">Blog</a></li>
+        <li><a href="/blog.php">Blog</a></li>
         <li><a href="/product-lines.php">Product Lines</a></li>
         <li><a href="/services.php">Services
               <span class="drop-icon">▾</span>
