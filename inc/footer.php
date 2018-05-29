@@ -12,8 +12,8 @@
         <span>Toll-Free: <a href="tel:+18006575225">(800) 657-5225</a></span>
       </div>
       <div class="footer-links">
-        <a href="">About Us</a>
-        <a href="">Services</a>
+        <a href="/about-us.php">About Us</a>
+        <a href="/services.php">Services</a>
         <a href="/contact-us.php">Contact&nbsp;Us</a>
       </div>
     </div>
