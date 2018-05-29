@@ -36,7 +36,7 @@
   }(document, 'script', 'facebook-jssdk'));</script>
   <header class="header-outer">
     <div class="header-top">
-      <img class="header-top-logo" src="assets/images/logo.png" alt="East Texas Truck Equipment">
+      <a href="/"><img class="header-top-logo" src="assets/images/logo.png" alt="East Texas Truck Equipment"></a>
       <div class="header-top-social">
         <a href="<?php echo $siteFacebookURL; ?>"><img src="assets/images/icon-facebook.png" alt="ETTE on Facebook" class="header-top-social-icon header-top-social-facebook"></a>
         <a href="/youtube.php"><img src="assets/images/icon-youtube.png" alt="ETTE on YouTube" class="header-top-social-icon header-top-social-youtube"></a>
