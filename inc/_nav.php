@@ -48,9 +48,9 @@
         <li><a href="/product-lines.php">Product Lines</a></li>
         <li><a href="/services.php">Services
               <span class="drop-icon">▾</span>
-                <label title="Toggle Drop-down" class="drop-icon" for="sm8">▾</label>
+                <label title="Toggle Drop-down" class="drop-icon" for="sm2">▾</label>
               </a>
-              <input id="sm8" type="checkbox">
+              <input id="sm2" type="checkbox">
             
             <ul class="sub-menu">
               <li><a href="/heavy-truck-services.php">Heavy Truck Services</a></li>
@@ -58,9 +58,9 @@
         </li>
         <li><a href="/gallery.php">The Gallery
               <span class="drop-icon">▾</span>
-                <label title="Toggle Drop-down" class="drop-icon" for="sm8">▾</label>
+                <label title="Toggle Drop-down" class="drop-icon" for="sm3">▾</label>
               </a>
-              <input id="sm8" type="checkbox">
+              <input id="sm3" type="checkbox">
             
             <ul class="sub-menu">
               <li><a href="/gallery-suv.php">SUV&rsquo;s</a></li>
@@ -68,15 +68,15 @@
               <li><a href="/gallery-trucks.php">Trucks</a></li>
             </ul>    
         </li>
-        
         <li><a href="/contact-us.php">Contact Us
-            <span class="drop-icon">▾</span>
-            <label title="Toggle Drop-down" class="drop-icon" for="sm0">▾</label>
-          </a>
-          <input id="sm0" type="checkbox">
-          <ul class="sub-menu">
-            <li><a href="/location.php">Our Location</a></li>
-          </ul>
+              <span class="drop-icon">▾</span>
+                <label title="Toggle Drop-down" class="drop-icon" for="sm4">▾</label>
+              </a>
+              <input id="sm4" type="checkbox">
+            
+            <ul class="sub-menu">
+              <li><a href="/location.php">Our Location</a></li>
+            </ul>    
         </li>
       </ul>
     </nav>
