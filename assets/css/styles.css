@@ -55,6 +55,7 @@ a:hover {
 .header-top {
   padding-top: 24px;
   display: flex;
+  flex-direction: column;
 }
 
 figcaption {
@@ -69,7 +70,7 @@ figure img {
 
 .header-top-social {
   width: 144px;
-  margin: 36px auto 24px;
+  margin: 24px auto 24px;
 }
 
 .header-top-logo {
@@ -367,7 +368,11 @@ figure img {
 
 }
 
-
+@media only screen and (min-width: 640px) {
+  .header-top {
+    flex-direction: row;
+  }
+}
 
 @media only screen and (max-width: 1024px) {
   .main-outer {
@@ -377,18 +382,12 @@ figure img {
   }
 }
 
-  @media only screen and (max-width: 480px) {
-    .header-top {
-      display: flex;
-      flex-direction: column;
-      flex-flow: wrap;
-    }
-    .header-top-logo {
+@media only screen and (max-width: 480px) {
+  .header-top-logo {
     margin-top: 24px;
     max-height: 96px;
   }
 }
-
 
 @media only screen and (max-width: 320px) {
   .header-top-logo {
