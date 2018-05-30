@@ -289,7 +289,7 @@ figure img {
 
 .footer-content {
   padding: 24px;
-  background-color: rgba(0, 0, 0, .05);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .footer-links {
