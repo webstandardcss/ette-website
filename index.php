@@ -38,45 +38,57 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         </figure>
       </div>
       <div class="list-services">
-        <span class="list-services-item">Spray-in Bed Liners</span>
-        <span class="list-services-item">Tool Boxes</span>
-        <span class="list-services-item">Nerf-bars</span>
-        <span class="list-services-item">Side Steps</span>
-        <span class="list-services-item">Goose-necks</span>
-        <span class="list-services-item">5th Wheels</span>
-        <span class="list-services-item">Receiver Hitches</span>
-        <span class="list-services-item">Lift Kits</span>
-        <span class="list-services-item">Floor Mats</span>
-        <span class="list-services-item">Bed Covers</span>
-        <span class="list-services-item">Lights</span>
+        <a href="/accessories.php" class="list-services-item">Spray-in Bed Liners</a>
+        <a href="/accessories.php" class="list-services-item">Tool Boxes</a>
+        <a href="/accessories.php" class="list-services-item">Nerf-bars</a>
+        <a href="/accessories.php" class="list-services-item">Side Steps</a>
+        <a href="/accessories.php" class="list-services-item">Goose-necks</a>
+        <a href="/accessories.php" class="list-services-item">5th Wheels</a>
+        <a href="/accessories.php" class="list-services-item">Receiver Hitches</a>
+        <a href="/accessories.php" class="list-services-item">Lift Kits</a>
+        <a href="/accessories.php" class="list-services-item">Floor Mats</a>
+        <a href="/accessories.php" class="list-services-item">Bed Covers</a>
+        <a href="/accessories.php" class="list-services-item">Lights</a>
       </div>
       <div class="featured-brands">
           <figure class="featured-brands-item">
-            <img src="assets/images/home/brand-bw-hitches.png" alt="B&amp;W Hitches">
-            <figcaption>B&amp;W Hitches</figcaption>
+            <a href="">
+              <img src="assets/images/home/brand-bw-hitches.png" alt="B&amp;W Hitches">
+              <figcaption>B&amp;W Hitches</figcaption>
+            </a>
           </figure>
           <figure class="featured-brands-item">
-            <img src="assets/images/home/brand-retrax.png" alt="RETRAX">
-            <figcaption>RETRAX</figcaption>
+            <a href="">
+              <img src="assets/images/home/brand-retrax.png" alt="RETRAX">
+              <figcaption>RETRAX</figcaption>
+            </a>
           </figure>
           <figure class="featured-brands-item">
-            <img src="assets/images/home/brand-ranch-hand1.png" alt="Ranch Hand">
-            <figcaption>Ranch Hand</figcaption>
+            <a href="">
+              <img src="assets/images/home/brand-ranch-hand1.png" alt="Ranch Hand">
+              <figcaption>Ranch Hand</figcaption>
+            </a>
           </figure>
           <figure class="featured-brands-item">
-            <img src="assets/images/home/brand-weathertech-logo.png" alt="WeatherTech Floor Mats">
-            <figcaption>WeatherTech Floor Mats</figcaption>
+            <a href="">
+              <img src="assets/images/home/brand-weathertech-logo.png" alt="WeatherTech Floor Mats">
+              <figcaption>WeatherTech Floor Mats</figcaption>
+            </a>
           </figure>
           <figure class="featured-brands-item">
-            <img src="assets/images/home/brand-uws-logo.png" alt="UWS Tool Boxes">
-            <figcaption>UWS Tool Boxes</figcaption>
+            <a href="">
+              <img src="assets/images/home/brand-uws-logo.png" alt="UWS Tool Boxes">
+              <figcaption>UWS Tool Boxes</figcaption>
+            </a>
           </figure>
           <figure class="featured-brands-item">
-              <img src="assets/images/home/brand-mob-armor-logo.png" alt="Mob Armor">
-              <figcaption>Mob Armor</figcaption>
+              <a href="">
+                <img src="assets/images/home/brand-mob-armor-logo.png" alt="Mob Armor">
+                <figcaption>Mob Armor</figcaption>
+              </a>
           </figure>
       </div>
-      <img class="home-elite" src="assets/images/home/eliteautoassociation.png" alt="Elite Auto Association">
+      <img class="home-elite" src="assets/images/home/eliteautoassociation.png" alt="Elite BANNER AREA">
     </main>
     <!-- <aside class="main-content-after">
       <?php // require_once dirname(__FILE__) . "/inc/facebook.php"; ?>
