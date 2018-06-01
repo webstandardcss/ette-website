@@ -10,8 +10,8 @@
           <input id="sm0" type="checkbox">
           <ul class="sub-menu">
           <li><a href="/youtube.php">ETTE on YouTube</a></li>
-            <li><a href="/mockup.html">HTML MOCKUP PAGE</a></li>
-            <li><a href="/blank.php">BLANK PAGE</a></li>
+            <!-- <li><a href="/mockup.html">HTML MOCKUP PAGE</a></li>
+            <li><a href="/blank.php">BLANK PAGE</a></li> -->
           </ul>
         </li>
         <li><a href="/accessories.php">Accessories 
