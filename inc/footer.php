@@ -4,7 +4,7 @@
       <div class="footer-brand">
         <h3 class="footer-name"><a href="/">East Texas Truck Equipment</a></h3> 
         <address class="footer-address">
-          5685 East Loop 281 South Longview TX 75602 
+          <a href="/location.php">5685 East Loop 281 South Longview TX 75602</a> 
         </address>
       </div>
       <div class="footer-telephone">
