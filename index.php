@@ -19,16 +19,22 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
       <h4 class="main-description">At East Texas Truck Equipment we have the most extensive inventory of truck accessories in East Texas. We take great pride in trying to have the products our customers need in stock and ready for installation when they need it. Our knowledgeable and courteous staff is eager to take care of you. From industrial grade tool boxes, to chrome trim for your custom ride, we can take care of you. Call or come by our showroom in Longview Texas today.</h4>      
       <div class="featured-services">
         <figure class="featured-services-item">
-          <img src="assets/images/home/icon-services-pickup.png" alt="Pick-up Truck Services">
-          <figcaption>Pick-up Truck Services</figcaption>
+          <a href="/services.php">
+            <img src="assets/images/home/icon-services-pickup.png" alt="Pick-up Truck Services">
+            <figcaption>Pick-up Truck Services</figcaption>
+          </a>
         </figure>
         <figure class="featured-services-item">
-          <img src="assets/images/home/icon-services-truck.png" alt="Heavy Truck Services">
-          <figcaption>Heavy Truck Services</figcaption>
+          <a href="/heavy-truck-services.php">
+            <img src="assets/images/home/icon-services-truck.png" alt="Heavy Truck Services">
+            <figcaption>Heavy Truck Services</figcaption>
+          </a>
         </figure>
         <figure class="featured-services-item">
-          <img src="assets/images/home/icon-contact.png" alt="Contact Us">
-          <figcaption>Contact Us</figcaption>
+          <a href="/contact-us.php">
+            <img src="assets/images/home/icon-contact.png" alt="Contact Us">
+            <figcaption>Contact Us</figcaption>
+          </a>
         </figure>
       </div>
       <div class="list-services">
