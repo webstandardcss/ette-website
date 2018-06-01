@@ -38,51 +38,51 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         </figure>
       </div>
       <div class="list-services">
-        <a href="/accessories.php" class="list-services-item">Spray-in Bed Liners</a>
-        <a href="/accessories.php" class="list-services-item">Tool Boxes</a>
+        <a href="/accessories-spray-liners.php" class="list-services-item">Spray-in Bed Liners</a>
+        <a href="/accessories-tool-boxes.php" class="list-services-item">Tool Boxes</a>
         <a href="/accessories.php" class="list-services-item">Nerf-bars</a>
-        <a href="/accessories.php" class="list-services-item">Side Steps</a>
-        <a href="/accessories.php" class="list-services-item">Goose-necks</a>
+        <a href="/accessories-cab-steps.php" class="list-services-item">Side Steps</a>
+        <a href="/accessories-towing.php" class="list-services-item">Goose-necks</a>
         <a href="/accessories.php" class="list-services-item">5th Wheels</a>
-        <a href="/accessories.php" class="list-services-item">Receiver Hitches</a>
-        <a href="/accessories.php" class="list-services-item">Lift Kits</a>
-        <a href="/accessories.php" class="list-services-item">Floor Mats</a>
-        <a href="/accessories.php" class="list-services-item">Bed Covers</a>
-        <a href="/accessories.php" class="list-services-item">Lights</a>
+        <a href="/accessories-towing.php" class="list-services-item">Receiver Hitches</a>
+        <a href="/accessories-performance.php" class="list-services-item">Lift Kits</a>
+        <a href="/accessories-interior.php" class="list-services-item">Floor Mats</a>
+        <a href="/accessories-tonneau.php" class="list-services-item">Bed Covers</a>
+        <a href="/accessories-lights.php" class="list-services-item">Lights</a>
       </div>
       <div class="featured-brands">
           <figure class="featured-brands-item">
-            <a href="">
+            <a href="http://www.bwtrailerhitches.com/">
               <img src="assets/images/home/brand-bw-hitches.png" alt="B&amp;W Hitches">
               <figcaption>B&amp;W Hitches</figcaption>
             </a>
           </figure>
           <figure class="featured-brands-item">
-            <a href="">
+            <a href="http://www.retrax.com/">
               <img src="assets/images/home/brand-retrax.png" alt="RETRAX">
               <figcaption>RETRAX</figcaption>
             </a>
           </figure>
           <figure class="featured-brands-item">
-            <a href="">
+            <a href="http://www.ranchhand.com/">
               <img src="assets/images/home/brand-ranch-hand1.png" alt="Ranch Hand">
               <figcaption>Ranch Hand</figcaption>
             </a>
           </figure>
           <figure class="featured-brands-item">
-            <a href="">
+            <a href="http://www.weathertech.com/">
               <img src="assets/images/home/brand-weathertech-logo.png" alt="WeatherTech Floor Mats">
               <figcaption>WeatherTech Floor Mats</figcaption>
             </a>
           </figure>
           <figure class="featured-brands-item">
-            <a href="">
+            <a href="http://www.uwsta.com/k/homepage/">
               <img src="assets/images/home/brand-uws-logo.png" alt="UWS Tool Boxes">
               <figcaption>UWS Tool Boxes</figcaption>
             </a>
           </figure>
           <figure class="featured-brands-item">
-              <a href="">
+              <a href="http://mobarmor.com/">
                 <img src="assets/images/home/brand-mob-armor-logo.png" alt="Mob Armor">
                 <figcaption>Mob Armor</figcaption>
               </a>
