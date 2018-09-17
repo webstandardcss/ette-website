@@ -24,13 +24,6 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
       <blockquote>Our Team is composed of only top notch professionals. We provide you with the best service possible, and make sure that you leave with the information or accessories that you need for your vehicle. Our goal is to satisfy you, the customer. If you are not satisfied with our service, then we are not doing our job.</blockquote>
 
-      <h3>
-        Taxidermy Services Now Available!
-      </h3>
-      
-    </article>
-
-    <img class="home-elite" src="/obf/images/services/etta_taxidermy.jpg" alt="Taxidermy Services Now Available!">
   </main>
   <aside class="main-content-after">
     <?php require_once dirname(__FILE__) . "/inc/facebook.php"; ?>

@@ -18,7 +18,8 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
       <?php echo $pageTitle; ?>
     </h1>
     <article>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/Y2065sTBEQQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLUH6AW_UIzfsPBz0a0PNQtef_gsegtXEw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
     </article>
 
     <!-- <img class="home-elite" src="assets/images/home/eliteautoassociation.png" alt="Elite Auto Association"> -->

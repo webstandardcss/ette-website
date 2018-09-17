@@ -4,9 +4,11 @@
   
     <div class="wrapper">
       <ul class="owl-carousel">
-        <li><img src="assets/images/home/header-slider-image1.png" alt=""></li>
-        <li><img src="assets/images/home/header-slider-image1.png" alt=""></li>
-        <li><img src="assets/images/home/header-slider-image1.png" alt=""></li>
+        <li><img src="assets/images/home/header-slider-image.jpg" alt=""></li>
+        <li><img src="assets/images/home/header-slider-image2.jpg" alt=""></li>
+        <li><img src="assets/images/home/header-slider-image4.jpg" alt=""></li>
+        <li><img src="assets/images/home/header-slider-image3.jpg" alt=""></li>
+        <li><img src="assets/images/home/header-slider-image5.jpg" alt=""></li>
       </ul>
     </div>
   
@@ -16,11 +18,11 @@
     <script type="text/javascript">
       $(document).ready(function() {
         $(".owl-carousel").owlCarousel({
-          items: 1,
+          items: 5,
           singleItem: true,
           itemsScaleUp: true,
           slideSpeed: 500,
-          autoPlay: 2500,
+          autoPlay: 500,
           stopOnHover: true,
           autoPlay: true
         });

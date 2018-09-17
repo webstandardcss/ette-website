@@ -433,6 +433,12 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
           <a href="http://www.warn.com" target="_new">Warn Industries, Inc.</a>
         </figcaption>
       </figure>
+      <figure class="product-lines-item">
+          <a href="http://www.weathertech.com/">
+       <img src="assets/images/home/brand-weathertech-logo.png" alt="WeatherTech Floor Mats">
+              <figcaption>WeatherTech Floor Mats</figcaption>
+              </a>
+             </figure>
     </article>
 
     <!-- <img class="home-elite" src="assets/images/home/eliteautoassociation.png" alt="Elite Auto Association"> -->

@@ -22,13 +22,17 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
     <hr />
 
     <div class="featured-brands">
-      <a href="http://www.armorlid.com/"><figure class="featured-brands-item">
-        <img src="/obf/images/accessories/brands/armorlid.png" alt="Armor Lid" />
-        <figcaption>Armor Lid</figcaption>
-      </figure></a>
-      <a href="http://bastillesystem.com/"><figure class="featured-brands-item">
-        <img src="/obf/images/accessories/brands/bastille.jpg" alt="Bastille System" />
-        <figcaption>Bastille System</figcaption>
+        <a href="https://www.undercoverinfo.com/" target="_new"><figure class="featured-brands-item">
+          <img src="/obf/images/accessories/brands/undercover.png" alt="Undercover Bed Covers" width="100" height="75"
+            border="2">
+        </a>
+        <figcaption>
+          Undercover Bed Covers
+        </figcaption>
+        </figure></a>
+      <a href="https://bakindustries.com/ "><figure class="featured-brands-item">
+        <img src="/obf/images/accessories/brands/back-white-80x80.png" alt="Extang" />
+        <figcaption>Bak Industries</figcaption>
       </figure></a>
       <a href="http://extang.com/"><figure class="featured-brands-item">
         <img src="/obf/images/accessories/brands/extang.jpg" alt="Extang" />

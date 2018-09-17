@@ -27,7 +27,11 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
 
     <div class="featured-brands">
-      <a href="http://www.amp-research.com/"><figure class="featured-brands-item">
+      <a href="https://www.ariesautomotive.com/running-boards-side-bars"><figure class="featured-brands-item">
+        <img src="/obf/images/accessories/brands/aries-logo-2s.png" alt="Aries Cab steps" />
+        <figcaption>Aries</figcaption>
+      </figure></a>
+       <a href="http://www.amp-research.com/"><figure class="featured-brands-item">
         <img src="/obf/images/accessories/brands/amp-research.jpg" alt="Amp Research" />
         <figcaption>Amp Research</figcaption>
       </figure></a>

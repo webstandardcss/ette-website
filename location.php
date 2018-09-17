@@ -32,8 +32,8 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
       <p>
         East Texas Truck Equipment is located just North of Interstate 20 on East Loop 281 South.
       </p>
-  
-      <iframe scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=5685+East+Loop+281+South+Longview,+Texas+75602+&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=55.323926,135.263672&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=SE+Loop+281,+Longview,+Harrison,+Texas+75602&amp;t=m&amp;z=14&amp;ll=32.504118,-94.67298&amp;output=embed" width="300" height="350" frameborder="0"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13464.741286213286!2d-94.6705882!3d32.4677346!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa690bfdd1f951326!2sEast+Texas+Truck+Equipment!5e0!3m2!1sen!2sus!4v1536700455312" width="300" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+      
     </article>
     <!-- <img class="home-elite" src="assets/images/home/eliteautoassociation.png" alt="Elite Auto Association"> -->
   </main>

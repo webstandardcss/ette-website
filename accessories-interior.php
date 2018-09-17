@@ -22,14 +22,29 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
     <hr />
     
     <div class="featured-brands">
-      <a href="http://www.covercraft.com/"><figure class="featured-brands-item">
+      <a href="http://www.covercraft.com/">
+       <figure class="featured-brands-item">
         <img src="/obf/images/accessories/brands/cover_craft.jpg" alt="Covercraft" />
         <figcaption>Covercraft</figcaption>
       </figure></a>
+      
       <a href="http://www.huskyliners.com/"><figure class="featured-brands-item">
-        <img src="/obf/images/accessories/brands/husky.jpg" alt="Husky Liners" />
+        <img src="/obf/images/accessories/brands/husky.jpg" alt="Husky Liners"/>
         <figcaption>Husky Liners</figcaption>
       </figure></a>
+      <figure class="product-lines-item">
+          <a href="http://www.weathertech.com/">
+       <img src="assets/images/home/brand-weathertech-logo.png" alt="WeatherTech Floor Mats">
+              <figcaption>WeatherTech Floor Mats</figcaption>
+              </a>
+             </figure>
+             
+        <figure class="product-lines-item">
+          <a href="https://www.coverking.com/">
+       <img src="/obf/images/accessories/brands/coverking-logo.png" alt="Coverking">
+              <figcaption>Coverking</figcaption>
+              </a>
+             </figure>
     </div>
 
     <hr />
