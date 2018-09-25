@@ -31,7 +31,7 @@ $extraCss = array("forms");
     <div class="form gform-contact">
       <div class="gform_wrapper" id="gform_wrapper_1">
 
-      <form method="post" enctype="multipart/form-data" id="gform_1" action="http://new.ette.tv/obf/mail/mail.php">
+      <form method="post" enctype="multipart/form-data" id="gform_1" action="http://ette.tv/obf/mail/mail.php">
         <input type="hidden" name="recipients" value="myaddress" />
             <input type="hidden" name="good_url" value="/" />
             <input type="hidden" name="subject" value="ETTE Contact Us Form" />
@@ -98,7 +98,7 @@ $extraCss = array("forms");
               <li id="field_1_6" class="gfield field_sublabel_below field_description_below gfield_visibility_visible">
                 <label class="gfield_label" for="input_1_6">Captcha</label>
                 <div class="ginput_container imgverify">
-                  <img src="http://new.ette.tv/obf/mail/verifyimg.php" alt="Image verification" name="vimg" />
+                  <img src="http://ette.tv/obf/mail/verifyimg.php" alt="Image verification" name="vimg" />
                   <input type="text" size="12" name="imgverify" placeholder="Enter image text" />
                 </div>
               </li>
