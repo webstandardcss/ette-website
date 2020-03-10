@@ -8,7 +8,7 @@
         </address>
       </div>
       <div class="footer-telephone">
-        <span>Phone: <a href="tel:+19037589171">(903) 758-6171</a></span>
+        <span>Phone: <a href="tel:+19037586171">(903) 758-6171</a></span>
         <span>Toll-Free: <a href="tel:+18006575225">(800) 657-5225</a></span>
       </div>
       <div class="footer-links">

@@ -24,6 +24,17 @@
   <?php if (in_array("searchfix", $extraCss)) { ?>
     <link rel="stylesheet" href="/assets/css/searchfix.css">
   <?php } ?>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-29662051-1">
+    gtag('config', 'AW-783136441');
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-29662051-1');
+</script>
 </head>
 <body>
 <div id="fb-root"></div>

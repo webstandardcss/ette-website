@@ -33,6 +33,7 @@
             </li> -->
             <li><a href="/accessories-bumpers.php">Bumpers</a></li>
             <li><a href="/accessories-cab-steps.php">Cab Steps</a></li>
+            <li><a href="/accessories-flat-beds.php">Flat Beds</a></li>
             <li><a href="/accessories-grills.php">Grills</a></li>
             <li><a href="/accessories-interior.php">Interior</a></li>
             <li><a href="/accessories-lights.php">Lights</a></li>

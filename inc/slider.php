@@ -5,10 +5,10 @@
     <div class="wrapper">
       <ul class="owl-carousel">
         <li><img src="assets/images/home/header-slider-image.jpg" alt=""></li>
+        <li><img src="assets/images/home/header-slider-image11.jpg" alt=""></li>
+        <li><img src="assets/images/home/header-slider-image10.jpg" alt=""></li>
+        <li><img src="assets/images/home/header-slider-image12.jpg" alt=""></li>
         <li><img src="assets/images/home/header-slider-image2.jpg" alt=""></li>
-        <li><img src="assets/images/home/header-slider-image4.jpg" alt=""></li>
-        <li><img src="assets/images/home/header-slider-image3.jpg" alt=""></li>
-        <li><img src="assets/images/home/header-slider-image5.jpg" alt=""></li>
       </ul>
     </div>
   
