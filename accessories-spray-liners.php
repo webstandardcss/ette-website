@@ -22,9 +22,9 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
     <hr />
 
     <div class="featured-brands">
-      <a href="http://www.protectivecoatingsolutions.net/"><figure class="featured-brands-item">
-        <img src="/obf/images/accessories/brands/pcs.jpg" alt="Protective Coatings" />
-        <figcaption>Protective Coatings</figcaption>
+      <a href="http://www.xtremeliners.com/"><figure class="featured-brands-item">
+        <img src="/obf/images/accessories/brands/Xtreme_liners_logo_small.png" alt="Protective Coatings" />
+        <figcaption>Xtreme Liners</figcaption>
       </figure></a>
     </div>
 

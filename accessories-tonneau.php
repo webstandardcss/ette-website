@@ -2,9 +2,9 @@
 
 <?php // Page data
 $pageTitle = "Tonneau Covers";
-$pageTitleTag = $pageTitle . " " . $siteName;
+$pageTitleTag = $pageTitle . "Quality Bed Covers" . $siteName;
 $pageDescription = $siteName  . "  " . $pageTitle;
-$pageKeywords = $pageTitle . "  " . $siteKeywords;
+$pageKeywords = $pageTitle . " Quality Bed Covers " . $siteKeywords;
 // $extraCss = array("forms");
 ?>
 
@@ -22,30 +22,62 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
     <hr />
 
     <div class="featured-brands">
-        <a href="https://www.undercoverinfo.com/" target="_new"><figure class="featured-brands-item">
+      <a href="https://www.undercoverinfo.com/" target="_new">
+        <figure class="featured-brands-item">
           <img src="/obf/images/accessories/brands/undercover.png" alt="Undercover Bed Covers" width="100" height="75"
             border="2">
-        </a>
-        <figcaption>
-          Undercover Bed Covers
-        </figcaption>
-        </figure></a>
-      <a href="https://bakindustries.com/ "><figure class="featured-brands-item">
-        <img src="/obf/images/accessories/brands/back-white-80x80.png" alt="Extang" />
-        <figcaption>Bak Industries</figcaption>
-      </figure></a>
+           <figcaption>
+            Undercover Bed Covers
+           </figcaption>
+        </figure>
+      </a>
+      
+      <a href="http://www.ruggedliner.com/product-rugged-cover.php">
+        <figure class="featured-brands-item">
+          <img src="/obf/images/accessories/brands/ruggedliner.jpg" alt="Rugged Cover" />
+            <figcaption>
+              Rugged Cover
+            </figcaption>
+        </figure>
+      </a>
+
+      <a href="https://www.agricover.com/lomax/">
+        <figure class="featured-brands-item">
+          <img src="/obf/images/accessories/brands/LoMax_logo.jpg" alt="LoMax Covers" width="130" height="75"
+            border="2" />
+            <figcaption>
+              Rugged Cover
+            </figcaption>
+        </figure>
+      </a>
+
+      <a href="http://www.retrax.com/">
+        <figure class="featured-brands-item">
+          <img src="/obf/images/accessories/brands/rolltopcover.gif" alt="Retrax" width="120" />
+            <figcaption>
+              Retrax
+            </figcaption>
+        </figure>
+      </a>
+
+      <a href="https://bakindustries.com/ " target="_new">
+        <figure class="featured-brands-item">
+          <img src="/obf/images/accessories/brands/back-white-80x80.png" alt="Bak Industries" />
+            <figcaption>
+            Bak Industries
+          </figcaption>
+        </figure>
+      </a>
+
       <a href="http://extang.com/"><figure class="featured-brands-item">
         <img src="/obf/images/accessories/brands/extang.jpg" alt="Extang" />
-        <figcaption>Extang</figcaption>
-      </figure></a>
-      <a href="http://www.retrax.com/"><figure class="featured-brands-item">
-        <img src="/obf/images/accessories/brands/rolltopcover.gif" alt="Retrax" />
-        <figcaption>Retrax</figcaption>
-      </figure></a>
-      <a href="http://www.ruggedliner.com/product-rugged-cover.php"><figure class="featured-brands-item">
-        <img src="/obf/images/accessories/brands/ruggedliner.jpg" alt="Rugged Cover" />
-        <figcaption>Rugged Cover</figcaption>
-      </figure></a>
+          <figcaption>
+            Extang
+          </figcaption>
+        </figure>
+      </a>
+      
+      
     </div>
 
     <hr />

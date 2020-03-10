@@ -30,7 +30,11 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         <img src="/obf/images/accessories/brands/edge.jpg" alt="Edge Performance" />
         <figcaption>Edge Performance</figcaption>
       </figure></a>
-      <a href="http://www.superchips.com/"><figure class="featured-brands-item">
+      <a href="https://pacbrake.com/product-types/air/"><figure class="featured-brands-item">
+        <img src="./obf/images/accessories/brands/pacbrakes_logo.png" alt="PAC Breaks" width="116" height="79" />
+        <figcaption>PACBREAK</figcaption>
+      </figure></a>
+       <a href="http://www.superchips.com/"><figure class="featured-brands-item">
         <img src="/obf/images/accessories/brands/superchips.jpg" alt="Superchips" />
         <figcaption>Superchips</figcaption>
       </figure></a>

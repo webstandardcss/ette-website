@@ -26,7 +26,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
           <img src="/obf/images/accessories/brands/Airlift_Logo.jpg" alt="Air Lift" width="100" border="2">
         </a>
         <figcaption>
-          <a href="https://www.airliftcompany.com/">Airlift</a>
+          <a href="https://www.airliftcompany.com/" target="_new">Airlift</a>
         </figcaption>
       </figure>
       <figure class="product-lines-item">
@@ -42,7 +42,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
           <img src="/obf/images/accessories/brands/amp-research.jpg" alt="Amp Research" width="100" border="2">
         </a>
         <figcaption>
-          <a href="http://www.amp-research.com/">Amp Research</a>
+          <a href="http://www.amp-research.com/" target="_new">Amp Research</a>
         </figcaption>
       </figure>
       <figure class="product-lines-item">
@@ -247,6 +247,14 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         </figcaption>
       </figure>
       <figure class="product-lines-item">
+        <a href="https://www.agricover.com/lomax/" target="_new">
+          <img src="/obf/images/accessories/brands/LoMax_logo.jpg" alt="LoMax Covers" width="100" height="75" border="2">
+        </a>
+        <figcaption>
+          <a href="https://www.agricover.com/lomax/" target="_new">LoMax Covers</a>
+        </figcaption>
+      </figure>
+      <figure class="product-lines-item">
         <a href="http://mobarmor.com/" target="_new">
           <img src="/obf/images/accessories/brands/mob-armor-logo.png" style="background-color: white" alt="Mob Armor" width="100" height="100" border="2">
         </a>
@@ -292,7 +300,16 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
             border="2">
         </a>
         <figcaption>
-          <a href="http://www.norstarcompany.com/truck_beds.cfm" target="_new">Norstar Truck Covers</a>
+          <a href="http://www.norstarcompany.com/truck_beds.cfm" target="_new">Norstar Beds</a>
+        </figcaption>
+      </figure>
+      <figure class="product-lines-item">
+        <a href="https://pacbrake.com/product-types/air/" target="_new">
+          <img src="/obf/images/accessories/brands/pacbrakes_logo.png" alt="PAC Breaks" width="100" height="75"
+            border="2">
+        </a>
+        <figcaption>
+          <a href="https://pacbrake.com/product-types/air/" target="_new">PACBREAK</a>
         </figcaption>
       </figure>
       <figure class="product-lines-item">
@@ -336,7 +353,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         </figcaption>
       </figure>
       <figure class="product-lines-item">
-        <a href="http://www.retrax.com ">
+        <a href="http://www.retrax.com " target="_new">
           <img style="border: 2px solid black;" src="/obf/images/accessories/brands/rolltopcover.gif" alt="RETRAX" width="100" height="20" border="2">
         </a>
         <figcaption>
@@ -352,12 +369,12 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         </figcaption>
       </figure>
       <figure class="product-lines-item">
-        <a href="http://www.rigidindustries.com ">
+        <a href="http://www.rigidindustries.com" target="_new">
           <img src="/obf/images/accessories/brands/RIGID-INDUSTRIES-LOGO-2.jpeg-150x150.jpg" alt="Rigid Industries"
             width="100" height="75" border="2">
         </a>
         <figcaption>
-          <a href="http://www.rigidindustries.com ">Rigid Industries</a>
+          <a href="http://www.rigidindustries.com" target="_new">Rigid Industries</a>
         </figcaption>
       </figure>
       <figure class="product-lines-item">
@@ -434,11 +451,18 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         </figcaption>
       </figure>
       <figure class="product-lines-item">
-          <a href="http://www.weathertech.com/">
+          <a href="http://www.weathertech.com/" target="_new">
        <img src="assets/images/home/brand-weathertech-logo.png" alt="WeatherTech Floor Mats">
               <figcaption>WeatherTech Floor Mats</figcaption>
               </a>
              </figure>
+        <figure class="product-lines-item">
+          <a href="http://www.xtremeliners.com/" target="_new">
+       <img src="/obf/images/accessories/brands/Xtreme_liners_logo_small.png" alt="Xtreme Truck Liners" width="116" height="79" border="2">
+              <figcaption>Xtreme Liners</figcaption>
+              </a>
+             </figure>
+             
     </article>
 
     <!-- <img class="home-elite" src="assets/images/home/eliteautoassociation.png" alt="Elite Auto Association"> -->

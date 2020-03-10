@@ -28,7 +28,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
     <figcaption>Fab Fours</figcaption>
   </figure></a>
   <a href="http://www.ranchhand.com/"><figure class="featured-brands-item">
-    <img src="/obf/images/accessories/brands/ranch-hand.jpg" alt="Ranch Hand" />
+    <img src="/obf/images/accessories/brands/ranch-hand1.jpg" alt="Ranch Hand" width="100" height="75" />
     <figcaption>Ranch Hand</figcaption>
   </figure></a>
   <a href="http://www.perry-co.com/"><figure class="featured-brands-item">
@@ -36,12 +36,22 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
     <figcaption>Perry Company</figcaption>
   </figure></a>
 </div>
-
-
+<div class="flex-center" >
+<a href="/obf/images/accessories/front-bumper-website-edited.jpg">
+  <img src="/obf/images/accessories/front-bumper-website-edited.jpg" alt="Ranch hand bumper"  class="img-accessories" />
+  <figcaption>Ranch Hand front bumper</figcaption>
+</a>
+<a>
+  <img src="/obf/images/accessories/FabFours_front-bumper-edited" width="500" height="267" class="img-accessories" />
+  <figcaption> Fab Fours front bumper</figcaption>
+</a>
+</div>
 <hr />
 
     <?php require_once dirname(__FILE__) . "/inc/categories-accessories.php"; ?>
     <!-- <img class="home-elite" src="assets/images/home/eliteautoassociation.png" alt="Elite Auto Association"> -->
+  <hr />  
+    
   </main>
   <aside class="main-content-after">
     <?php require_once dirname(__FILE__) . "/inc/facebook.php"; ?>
