@@ -6,6 +6,9 @@ body {
     font-family: Helvetica, 'Helvetica Neue', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
+.hidden {
+  display: none;
+}
 .align-left {
   float: left;
 }
@@ -67,7 +70,13 @@ figure img {
   display: block;
   margin: 0 auto;
 }
-
+.img-accessories{
+    width: 50%;
+    height:auto;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-evenly;
+}
 .header-top-social {
   width: 144px;
   margin: 24px auto 24px;
@@ -219,10 +228,11 @@ figure img {
 
 
 .flex-center {
-  display: flex;
-  flex-flow: wrap;
+  display: grid;
   justify-content: space-evenly;
   margin-bottom: 0px;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  min-width: 45vw;
 }
 
 .flex-center-item {}
@@ -237,6 +247,12 @@ figure img {
   flex-flow: wrap;
   justify-content: space-evenly;
   background-color: rgba(255, 255, 255, .75);
+}
+.special-list li{
+    font-weight: bold;
+    font-size:24px;
+    color:white;
+    line-height: 1.5;
 }
 
 .featured-services-item {
