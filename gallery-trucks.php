@@ -22,15 +22,18 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
     <article class="featured-brands">
       <figure class="featured-brands-item">
-      <a href="/obf/images/gallery/truck/truck_front1.jpg" target="_blank"><img src="/obf/images/gallery/truck/truck_front1.jpg" alt="Truck1" title="" width="100" height="75" class="alignleft size-full wp-image-128"><figcaption>Truck Front 1</figcaption></a>
+        <a href="/assets/images/bna-trucks/2002-dodge-norstar-bed-edited.jpg" target="_blank">
+         <img src="/assets/images/bna-trucks/2002-dodge-norstar-bed-edited.jpg" alt="2002 Dodge Norstar Bed" title="" width="150" height="110" class="alignleft size-full wp-image-128">
+          <figcaption>2002 Dodge Norstar Bed</figcaption>
+        </a>
       </figure>
       
       <figure class="featured-brands-item">
-      <a href="/obf/images/gallery/truck/truck_front2.jpg" target="_blank"><img src="/obf/images/gallery/truck/truck_front2.jpg" alt="Truck 2" title="" width="100" height="75" class="alignleft size-full wp-image-128"><figcaption>Truck Front 2</figcaption></a>
+      <a href="/assets/images/bna-trucks/2019-ford-f250-bed-liner-2019-edited.jpg" target="_blank"><img src="/assets/images/bna-trucks/2019-ford-f250-bed-liner-2019-edited.jpg" alt="F250 Bedliner" title="" width="150" height="110" class="alignleft size-full wp-image-128"><figcaption>2019 Ford F250 Spray-in Liner</figcaption></a>
       </figure>
       
       <figure class="featured-brands-item">
-      <a href="/obf/images/gallery/truck/truck_front3.jpg" target="_blank"><img src="/obf/images/gallery/truck/truck_front3.jpg" alt="Truck 3" title="" width="100" height="75" class="alignleft size-full wp-image-128"><figcaption>Truck Front 3</figcaption></a>
+      <a href="/obf/images/gallery/truck/truck_front3.jpg" target="_blank"><img src="/obf/images/gallery/truck/truck_front3.jpg" alt="Truck 3" title="" width="150" height="110" class="alignleft size-full wp-image-128"><figcaption>Truck Front 3</figcaption></a>
       </figure>
       
       <figure class="featured-brands-item">

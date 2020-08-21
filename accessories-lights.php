@@ -1,10 +1,10 @@
 <?php require_once dirname(__FILE__) . "/inc/config.php"; ?>
 
 <?php // Page data
-$pageTitle = "Lights";
+$pageTitle = "Accesories - Lights";
 $pageTitleTag = $pageTitle . " " . $siteName;
 $pageDescription = $siteName  . "  " . $pageTitle;
-$pageKeywords = $pageTitle . "  " . $siteKeywords;
+$pageKeywords = $pageTitle . " East Texas truck accessories - Lights " . $siteKeywords;
 // $extraCss = array("forms");
 ?>
 
@@ -26,30 +26,38 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
     </p>
     
     <div class="featured-brands">
-    <a href="http://www.eccolink.com/ProductPages/Products.cfm">
+    <a href="http://www.eccolink.com/ProductPages/Products.cfm" target="_new">
         <figure class="featured-brands-item">
         <img src="/obf/images/accessories/brands/ecco.jpg" alt="ECCO" />
         <figcaption>ECCO</figcaption>
       </figure></a>
-      <a href="http://www.hella.com/produktion/HellaUSA/WebSite/Channels/Home/Home.jsp">
-          <figure class="featured-brands-item">
-        <img src="/obf/images/accessories/brands/hella.jpg" alt="Hella" />
-        <figcaption>Hella</figcaption>
-      </figure></a>
-      <a href="http://www.pmlights.com/">
+
+      <a href="http://www.pmlights.com/" target="_new">
           <figure class="featured-brands-item">
         <img src="/obf/images/accessories/brands/peterson.jpg" alt="Peterson Manufacturing" />
         <figcaption>Peterson Manufacturing</figcaption>
       </figure></a>
-      <a href="http://www.pilotautomotive.com/">
+
+      <a href="http://www.putco.com/" target="_new">
+          <figure class="featured-brands-item">
+        <img src="/obf/images/accessories/brands/putco.jpg" alt="Putco Lights" />
+        <figcaption>Peterson Manufacturing</figcaption>
+      </figure></a>
+
+      <a href="http://www.pilotautomotive.com/" target="_new">
           <figure class="featured-brands-item">
         <img src="/obf/images/accessories/brands/pilot.jpg" alt="Pilot Automotive" />
         <figcaption>Pilot Automotive</figcaption>
       </figure></a>
-      <a href="http://www.rigidindustries.com">
+      <a href="http://www.rigidindustries.com" target="_new">
           <figure class="featured-brands-item">
           <img src="/obf/images/accessories/brands/RIGID-INDUSTRIES-LOGO-2.jpeg-150x150.jpg" alt="Rigid Industries" width="100" height="75" border="2">
         <figcaption>Rigid Industries</figcaption>
+      </figure></a>
+      <a href=https://www.roughcountry.com/lighting-and-accessories/lights.html" target="_new">
+          <figure class="featured-brands-item">
+          <img src="/obf/images/accessories/brands/rough-country-logo.jpeg" alt="Rough Country" width="100" height="75" border="2">
+        <figcaption>Rough Country</figcaption>
       </figure></a>
     </div>
 

@@ -46,7 +46,7 @@ $pageKeywords = $pageTitle . " Quality Bed Covers " . $siteKeywords;
           <img src="/obf/images/accessories/brands/LoMax_logo.jpg" alt="LoMax Covers" width="130" height="75"
             border="2" />
             <figcaption>
-              Rugged Cover
+              Lomax
             </figcaption>
         </figure>
       </a>

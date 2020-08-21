@@ -24,7 +24,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
 <div class="featured-brands">
   <a href="http://www.fabfours.com/Home"><figure class="featured-brands-item">
-    <img src="/obf/images/accessories/brands/fabfours.jpg" alt="Fab Fours" />
+    <img src="/obf/images/accessories/brands/fabfours.jpg" alt="Fab Fours" width="100" />
     <figcaption>Fab Fours</figcaption>
   </figure></a>
   <a href="http://www.ranchhand.com/"><figure class="featured-brands-item">
@@ -42,7 +42,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
   <figcaption>Ranch Hand front bumper</figcaption>
 </a>
 <a>
-  <img src="/obf/images/accessories/FabFours_front-bumper-edited" width="500" height="267" class="img-accessories" />
+  <img src="/obf/images/accessories/FabFours_front-bumper-edited.jpg" width="500" height="267" class="img-accessories" />
   <figcaption> Fab Fours front bumper</figcaption>
 </a>
 </div>
