@@ -37,6 +37,16 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
           <a href="http://www.airaid.com" target="_new">Airaid</a>
         </figcaption>
       </figure>
+
+      <figure class="product-lines-item">
+        <a href="https://www.americanforcewheels.com/" target="_new">
+          <img src="/obf/images/accessories/brands/american-force-logo-1.png" alt="Airaid" width="100" height="75" border="2">
+        </a>
+        <figcaption>
+          <a href="https://www.americanforcewheels.com/" target="_new">American Force Wheels</a>
+        </figcaption>
+      </figure>
+
       <figure class="product-lines-item">
         <a href="http://www.amp-research.com/" target="_new">
           <img src="/obf/images/accessories/brands/amp-research.jpg" alt="Amp Research" width="100" border="2">
@@ -143,11 +153,11 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         </figcaption>
       </figure>
       <figure class="product-lines-item">
-        <a href="http://www.eccolink.com/ProductPages/Products.cfm" target="_new">
+        <a href="https://www.eccoesg.com/us/en" target="_new">
           <img src="/obf/images/accessories/brands/ecco.jpg" alt="ECCO" width="100" height="75" border="2">
         </a>
         <figcaption>
-          <a href="http://www.eccolink.com/ProductPages/Products.cfm" target="_new">ECCO</a>
+          <a href="https://www.eccoesg.com/us/en" target="_new">ECCO</a>
         </figcaption>
       </figure>
       <figure class="product-lines-item">
@@ -175,7 +185,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         </figcaption>
       </figure>
       <figure class="product-lines-item">
-        <a href="http://www.tuthill.com/us/en/products/transferpumps.cfm" target="_new">
+        <a href="https://www.fillrite.com/ " target="_new">
           <img src="/obf/images/accessories/brands/fill-rite.jpg" alt="Fill Rite" width="100" height="75" border="2">
         </a>
         <figcaption>
@@ -239,11 +249,11 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         </figcaption>
       </figure>
       <figure class="product-lines-item">
-        <a href="http://www.knaacksecure.com" target="_new">
+        <a href="https://www.knaack.com/" target="_new">
           <img src="/obf/images/accessories/brands/knaack.jpg" alt="KNAACK" width="100" height="75" border="2">
         </a>
         <figcaption>
-          <a href="http://www.knaacksecure.com" target="_new">KNAACK</a>
+          <a href="https://www.knaack.com/" target="_new">KNAACK</a>
         </figcaption>
       </figure>
       <figure class="product-lines-item">
@@ -262,12 +272,32 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
           <a href="http://mobarmor.com" target="_new">Mob Armor</a>
         </figcaption>
       </figure>
+
       <figure class="product-lines-item">
-        <a href="http://www.perry-co.com" target="_new">
+        <a href="https://www.nittotire.com/" target="_new">
+          <img src="obf/images/accessories/brands/Nitto-logo-420x420.png" style="background-color: white" alt="Mob Armor" width="100" height="100" border="2">
+        </a>
+        <figcaption>
+          <a href="https://www.nittotire.com/" target="_new">Nitto Tires</a>
+        </figcaption>
+      </figure>
+
+      <figure class="product-lines-item">
+        <a href="http://www.norstarcompany.com/truck_beds.cfm" target="_new">
+          <img src="/obf/images/accessories/brands/norstarlogo.png" alt="Norstar Truck Beds" width="100" height="75"
+            border="2">
+        </a>
+        <figcaption>
+          <a href="http://www.norstarcompany.com/truck_beds.cfm" target="_new">Norstar Beds</a>
+        </figcaption>
+      </figure>
+
+      <figure class="product-lines-item">
+        <a href="https://perry-co.com" target="_new">
           <img src="/obf/images/accessories/brands/perry.jpg" alt="Perry Company" width="100" height="75" border="2">
         </a>
         <figcaption>
-          <a href="http://www.perry-co.com" target="_new">Perry Company</a>
+          <a href="https://perry-co.com" target="_new">Perry Company</a>
         </figcaption>
       </figure>
       <figure class="product-lines-item">
@@ -294,15 +324,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
           <a href="http://www.popuphitch.com/" target="_new">Pop Up Towing Products</a>
         </figcaption>
       </figure>
-      <figure class="product-lines-item">
-        <a href="http://www.norstarcompany.com/truck_beds.cfm" target="_new">
-          <img src="/obf/images/accessories/brands/norstarlogo.png" alt="Norstar Truck Beds" width="100" height="75"
-            border="2">
-        </a>
-        <figcaption>
-          <a href="http://www.norstarcompany.com/truck_beds.cfm" target="_new">Norstar Beds</a>
-        </figcaption>
-      </figure>
+     
       <figure class="product-lines-item">
         <a href="https://pacbrake.com/product-types/air/" target="_new">
           <img src="/obf/images/accessories/brands/pacbrakes_logo.png" alt="PAC Breaks" width="100" height="75"
@@ -385,6 +407,16 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
           <a href="http://www.rki-us.com" target="_new">RKI Toolboxes</a>
         </figcaption>
       </figure>
+
+      <figure class="product-lines-item">
+      <a href=https://www.roughcountry.com/lighting-and-accessories/lights.html" target="_new">
+          <img src="/obf/images/accessories/brands/rough-country-logo.jpeg" alt="Rough Country" width="100" height="75" border="2">
+          </a>
+        <figcaption>
+          <a href="https://www.roughcountry.com/lighting-and-accessories/lights.html" target="_new">Rough Country</a>
+        </figcaption>
+      </figure>
+
       <figure class="product-lines-item">
         <a href="http://www.ruggedliner.com/" target="_new">
           <img src="/obf/images/accessories/brands/ruggedliner.jpg" alt="Rugged Liner" width="100" height="75" border="2">
@@ -425,6 +457,16 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
           <a href="http://www.truckvault.com/dealers/EastTexasTruck" target="_new">Truck Vault</a>
         </figcaption>
       </figure>
+
+      <figure class="product-lines-item">
+        <a href="https://www.toyotires.com/" target="_new">
+          <img src="/obf/images/accessories/brands/ToyoTires-Logo-323X250.jpg" alt="Truck Vault" width="100" height="75" border="2">
+        </a>
+        <figcaption>
+          <a href="https://www.toyotires.com/" target="_new">Toyo Tires</a>
+        </figcaption>
+      </figure>
+
       <figure class="product-lines-item">
         <a href="https://www.undercoverinfo.com/" target="_new">
           <img src="/obf/images/accessories/brands/undercover.png" alt="Undercover Bed Covers" width="100" height="75"
@@ -456,6 +498,15 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
               <figcaption>WeatherTech Floor Mats</figcaption>
               </a>
              </figure>
+
+      <figure class="product-lines-item">
+          <a href="https://www.wheelpros.com/" target="_new">
+       <img src="/obf/images/accessories/brands/Wheel-Pros-Logo.jpg" alt="Wheel Pros"  width="116" height="79" border="2"/></a>
+       <a href="https://www.wheelpros.com/" target="_new">  
+       <figcaption>Wheel Pros</figcaption>
+              </a>
+             </figure>
+
         <figure class="product-lines-item">
           <a href="http://www.xtremeliners.com/" target="_new">
        <img src="/obf/images/accessories/brands/Xtreme_liners_logo_small.png" alt="Xtreme Truck Liners" width="116" height="79" border="2">
