@@ -17,11 +17,11 @@
   <link rel="stylesheet" href="/custom.css">
   
   
-  <?php if (in_array("forms", $extraCss)) { ?>
+  <?php if (in_array("forms", (array)$extraCss)) { ?>
     <link rel="stylesheet" href="/assets/css/forms.css">
   <?php } ?>  
   
-  <?php if (in_array("searchfix", $extraCss)) { ?>
+  <?php if (in_array("searchfix", (array)$extraCss)) { ?>
     <link rel="stylesheet" href="/assets/css/searchfix.css">
   <?php } ?>
   <!-- Global site tag (gtag.js) - Google Analytics -->
