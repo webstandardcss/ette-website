@@ -39,7 +39,7 @@
             <li><a href="/accessories-lights.php">Lights</a></li>
             <li><a href="/accessories-performance.php">Performance</a></li>
             <li><a href="/accessories-spray-liners.php">Spray-In Liners</a></li>
-<!--            <li><a href="/accessories-suspension.php">Suspension</a></li>  -->
+            <li><a href="/accessories-suspension.php">Suspension</a></li> 
             <li><a href="/accessories-east-texas-tires-wheels.php">Tires and Wheels</a></li>
             <li><a href="/accessories-tonneau.php">Tonneau Covers</a></li>
             <li><a href="/accessories-tool-boxes.php">Tool Boxes</a></li>

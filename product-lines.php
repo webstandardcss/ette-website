@@ -46,8 +46,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
           <a href="https://www.americanforcewheels.com/" target="_new">American Force Wheels</a>
         </figcaption>
       </figure>
-
-      <figure class="product-lines-item">
+       <figure class="product-lines-item">
         <a href="http://www.amp-research.com/" target="_new">
           <img src="/obf/images/accessories/brands/amp-research.jpg" alt="Amp Research" width="100" border="2">
         </a>
@@ -55,7 +54,23 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
           <a href="http://www.amp-research.com/" target="_new">Amp Research</a>
         </figcaption>
       </figure>
+       <figure class="product-lines-item">
+        <a href="http://www.andersenhitches.com/" target="_new">
+          <img src="/obf/images/accessories/brands/andersen.png" alt="Andersen Hitches" width="100" border="2">
+        </a>
+        <figcaption>
+          <a href="http://www.andersenhitches.com/" target="_new">Andersen Hitches</a>
+        </figcaption>
+      </figure>
       <figure class="product-lines-item">
+        <a href="https://www.ariesautomotive.com/running-boards-side-bars" target="_new">
+          <img src="/obf/images/accessories/brands/aries.svg" alt="Aries" width="100" border="2">
+        </a>
+        <figcaption>
+          <a href="https://www.ariesautomotive.com/running-boards-side-bars" target="_new">Aries</a>
+        </figcaption>
+      </figure>
+     <figure class="product-lines-item">
         <a href="https://blackjacktirerepair.com/" target="_new">
           <img src="/obf/images/accessories/brands/Black-Jack-Logo.png" alt="Blackjack Tire Repair" width="100" border="2">
         </a>
@@ -112,12 +127,20 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
           <a href="http://camlockeronline.com/" target="_new">Cam-locker Tool Boxes</a>
         </figcaption>
       </figure>
-      <figure class="product-lines-item">
+       <figure class="product-lines-item">
         <a href="http://www.carr.com" target="_new">
           <img src="/obf/images/accessories/brands/carr.jpg" alt="Carr Steps and Accessories" width="100" height="75" border="2">
         </a>
         <figcaption>
           <a href="http://www.carr.com" target="_new">Carr Steps and Accessories</a>
+        </figcaption>
+      </figure>
+      <figure class="product-lines-item">
+        <a href="https://www.cobra.com/" target="_new">
+          <img src="/obf/images/accessories/brands/cobra.svg" alt="Cobra Electronics" width="100" height="75" border="2">
+        </a>
+        <figcaption>
+          <a href="https://www.cobra.com/" target="_new">Cobra Electronics</a>
         </figcaption>
       </figure>
       <figure class="product-lines-item">
@@ -369,7 +392,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
       </figure>
       <figure class="product-lines-item">
         <a href="http://www.readylift.com/" target="_new">
-          <img src="/obf/images/accessories/brands/ready-lift.jpg" alt="Ready Lift" width="100" border="2">
+          <img src="/obf/images/accessories/brands/readylift.jpg" alt="Ready Lift" width="100" border="2">
         </a>
         <figcaption>
           <a href="http://www.readylift.com/" target="_new">Ready Lift</a>
@@ -408,7 +431,14 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
           <a href="http://www.rki-us.com" target="_new">RKI Toolboxes</a>
         </figcaption>
       </figure>
-
+      <figure class="product-lines-item">
+        <a href="https://roadarmor.com/" target="_new">
+          <img src="/obf/images/accessories/brands/roadarmor.png" alt="Road Armor" width="100" height="75" border="2">
+        </a>
+        <figcaption>
+          <a href="https://roadarmor.com/" target="_new">Road Armor</a>
+        </figcaption>
+      </figure>
       <figure class="product-lines-item">
       <a href=https://www.roughcountry.com/lighting-and-accessories/lights.html" target="_new">
           <img src="/obf/images/accessories/brands/rough-country-logo.jpeg" alt="Rough Country" width="100" height="75" border="2">
@@ -499,6 +529,24 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
               <figcaption>WeatherTech Floor Mats</figcaption>
               </a>
              </figure>
+
+      <figure class="product-lines-item">
+        <a href="https://www.weboost.com/" target="_new">
+          <img src="/obf/images/accessories/brands/weboost.png" alt="WeBoost" width="100" height="75" border="2">
+        </a>
+        <figcaption>
+          <a href="https://www.weboost.com/" target="_new">WeBoost</a>
+        </figcaption>
+      </figure>
+
+      <figure class="product-lines-item">
+        <a href="https://www.westinautomotive.com/" target="_new">
+          <img src="/obf/images/accessories/brands/westin.png" alt="Westin Automotive" width="100" height="75" border="2">
+        </a>
+        <figcaption>
+          <a href="https://www.westinautomotive.com/" target="_new">Westin Automotive</a>
+        </figcaption>
+      </figure>
 
       <figure class="product-lines-item">
           <a href="https://www.wheelpros.com/" target="_new">
