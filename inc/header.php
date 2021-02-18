@@ -17,11 +17,11 @@
   <link rel="stylesheet" href="/custom.css">
   
   
-  <?php if (in_array("forms", $extraCss)) { ?>
+  <?php if (in_array("forms", (array)$extraCss)) { ?>
     <link rel="stylesheet" href="/assets/css/forms.css">
   <?php } ?>  
   
-  <?php if (in_array("searchfix", $extraCss)) { ?>
+  <?php if (in_array("searchfix", (array)$extraCss)) { ?>
     <link rel="stylesheet" href="/assets/css/searchfix.css">
   <?php } ?>
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -53,9 +53,9 @@
         <a href="/youtube.php"><img src="assets/images/icon-youtube.png" alt="ETTE on YouTube" class="header-top-social-icon header-top-social-youtube"></a>
         <a href="<?php echo $siteTwitterURL; ?>"><img src="assets/images/icon-twitter.png" alt="ETTE on Twitter" class="header-top-social-icon header-top-social-twitter"></a>
       </div>
-     <a href="//permasafe.com/" target="_blank" style="float:right; display:inline-block;">
-         <img src="/assets/images/PermaSafe-01.gif" alt="Permasafe" />
-     </a>
+      <a href="//permasafe.com/" target="_blank" style="float:right; display:inline-block;">
+         <img src="/assets/images/permasafe.gif" alt="Permasafe" width=250 />
+      </a>
     </div>
 
     <?php require_once(dirname(__FILE__) . "/_nav.php"); ?>
