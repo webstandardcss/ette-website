@@ -35,10 +35,11 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         <img src="/obf/images/accessories/brands/ranch-hand.jpg" alt="Ranch Hand" />
         <figcaption>Ranch Hand</figcaption>
       </figure></a>
-      <a href="http://www.perry-co.com/"><figure class="featured-brands-item">
+<!--      <a href="http://www.perry-co.com/"><figure class="featured-brands-item">
         <img src="/obf/images/accessories/brands/perry.jpg" alt="Perry Company" />
         <figcaption>Perry Company</figcaption>
       </figure></a>
+-->
     </div>
 
 

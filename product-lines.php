@@ -291,7 +291,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
           <a href="http://www.norstarcompany.com/truck_beds.cfm" target="_new">Norstar Beds</a>
         </figcaption>
       </figure>
-
+<!--
       <figure class="product-lines-item">
         <a href="https://perry-co.com" target="_new">
           <img src="/obf/images/accessories/brands/perry.jpg" alt="Perry Company" width="100" height="75" border="2">
@@ -300,6 +300,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
           <a href="https://perry-co.com" target="_new">Perry Company</a>
         </figcaption>
       </figure>
+-->
       <figure class="product-lines-item">
         <a href="http://www.pmlights.com" target="_new">
           <img src="/obf/images/accessories/brands/peterson.jpg" alt="Peterson Manufacturing" width="100" height="75" border="2">
