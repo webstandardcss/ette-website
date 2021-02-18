@@ -31,10 +31,6 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
     <img src="/obf/images/accessories/brands/ranch-hand1.jpg" alt="Ranch Hand" width="100" height="75" />
     <figcaption>Ranch Hand</figcaption>
   </figure></a>
-  <a href="http://www.perry-co.com/"><figure class="featured-brands-item">
-    <img src="/obf/images/accessories/brands/perry.jpg" alt="Perry Company" />
-    <figcaption>Perry Company</figcaption>
-  </figure></a>
 </div>
 <div class="flex-center" >
 <a href="/obf/images/accessories/front-bumper-website-edited.jpg">

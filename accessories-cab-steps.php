@@ -40,11 +40,11 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         <figcaption>Carr Steps & Accessories</figcaption>
       </figure></a>
       <a href="http://www.goindustries.com/"><figure class="featured-brands-item">
-        <img src="/obf/images/accessories/brands/go-rhino.jpg" alt="Go Industries" />
+        <img src="/obf/images/accessories/brands/goind.jpg" alt="Go Industries" />
         <figcaption>Go Industries</figcaption>
       </figure></a>
       <a href="http://www.gorhino.com/"><figure class="featured-brands-item">
-        <img src="/obf/images/accessories/brands/goind.jpg" alt="Go Rhino" />
+        <img src="/obf/images/accessories/brands/go-rhino.jpg" alt="Go Rhino" />
         <figcaption>Go Rhino</figcaption>
       </figure></a>
       <a href="http://www.raptorseries.com/"><figure class="featured-brands-item">
