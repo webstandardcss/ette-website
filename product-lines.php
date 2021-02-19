@@ -137,7 +137,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
       </figure>
       <figure class="product-lines-item">
         <a href="https://www.cobra.com/" target="_new">
-          <img src="/obf/images/accessories/brands/cobra.svg" alt="Cobra Electronics" width="100" height="75" border="2">
+          <img src="/obf/images/accessories/brands/cobra.png" alt="Cobra Electronics" width="100" height="75" border="2">
         </a>
         <figcaption>
           <a href="https://www.cobra.com/" target="_new">Cobra Electronics</a>
