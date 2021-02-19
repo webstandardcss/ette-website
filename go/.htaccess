@@ -1,0 +1,18 @@
+// .htaccess
+//
+// Add this to the directory where your write.php will be stored
+// This is an easy way to do an HTTP request to the script with the data
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	
+	# Change the following to the base directory of this file
+	RewriteBase /clickstats/
+
+	# Allow any files or directories that exist to be displayed directly
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+
+	# Rewrite all other URLs to write.php
+	RewriteRule . /clickstats/write.php [L]
+</IfModule>
