@@ -224,7 +224,10 @@ figure img {
   margin-bottom: 0px;
 }
 
-.featured-brands-item {}
+.featured-brands-item img {
+  max-width: 100px;
+  max-height: 100px;
+}
 
 
 .flex-center {
