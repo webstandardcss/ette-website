@@ -233,7 +233,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
       </figure>
       <figure class="product-lines-item">
         <a href="http://www.gorhino.com/" target="_new">
-          <img src="/obf/images/accessories/brands/gorhino.jpg" alt="Gorhino" width="100" height="75" border="2">
+          <img src="/obf/images/accessories/brands/go-rhino.jpg" alt="Gorhino" width="100" height="75" border="2">
         </a>
         <figcaption>
           <a href="http://www.gorhino.com/l" target="_new">Gorhino</a>
