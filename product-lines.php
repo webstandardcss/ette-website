@@ -31,7 +31,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
       </figure>
       <figure class="product-lines-item">
         <a href="http://www.airaid.com" target="_new">
-          <img src="/obf/images/accessories/brands/airaid.jpg" alt="Airaid" width="100" height="75" border="2">
+          <img src="/obf/images/accessories/brands/AiraidLogo.jpg" alt="Airaid" width="100" height="75" border="2">
         </a>
         <figcaption>
           <a href="http://www.airaid.com" target="_new">Airaid</a>
@@ -88,7 +88,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
       </figure>
       <figure class="product-lines-item">
         <a href="http://www.boltlock.com/" target="_new">
-          <img src="/obf/images/accessories/brands/boltlock.jpg" alt="Boltlock" width="100" border="2">
+          <img src="/obf/images/accessories/brands/BoltLock01" alt="Boltlock" width="100" border="2">
         </a>
         <figcaption>
           <a href="http://www.boltlock.com/" target="_new">Boltlock</a>
@@ -103,11 +103,11 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         </figcaption>
       </figure>
       <figure class="product-lines-item">
-        <a href="http://www.blueox.us" target="_new">
+        <a href="https://www.blueox.com" target="_new">
           <img src="/obf/images/accessories/brands/blue_ox.jpg" alt="Blue Ox Towing Products" width="100" height="75" border="2">
         </a>
         <figcaption>
-          <a href="http://www.blueox.us" target="_new">Blue Ox Towing Products</a>
+          <a href="https://www.blueox.com" target="_new">Blue Ox Towing Products</a>
         </figcaption>
       </figure>
       <figure class="product-lines-item">
@@ -153,7 +153,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
       </figure>
       <figure class="product-lines-item">
         <a href="http://www.curtmfg.com/" target="_new">
-          <img src="/obf/images/accessories/brands/curtmfg.jpg" alt="Curt Manufacturing" width="100" height="75" border="2">
+          <img src="/obf/images/accessories/brands/CurtManufacturing.jpg" alt="Curt Manufacturing" width="100" height="75" border="2">
         </a>
         <figcaption>
           <a href="http://www.curtmfg.com/" target="_new">Curt Manufacturing</a>
@@ -257,7 +257,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
       </figure>
       <figure class="product-lines-item">
         <a href="http://www.hopkinsmfg.com" target="_new">
-          <img src="/obf/images/accessories/brands/hopkin.jpg" alt="Hopkins Manufacturing" width="100" height="75" border="2">
+          <img src="/obf/images/accessories/brands/Hopkins01.jpg" alt="Hopkins Manufacturing" width="100" height="75" border="2">
         </a>
         <figcaption>
           <a href="http://www.hopkinsmfg.com" target="_new">Hopkins Manufacturing</a>

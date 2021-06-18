@@ -18,6 +18,12 @@
       </div>
     </div>
     <aside class="footer-content-after"></aside>
+    <a href="//ampdmarine.com" class="link link-ampdmarine">
+        <img src="//ampdmarine.com/images/icons/ampdlink.png" alt="AMPDMarine" />
+    </a>
+    <a href="//topshotrange.com" class="link link-topshot">
+        <img src="//ampdmarine.com/images/icons/topshotlink.png" alt="Top Shot Indoor Range" />
+    </a>
   </footer>
 
   <div id="topcontrol" title="To the top!" style="position: fixed; bottom: 52px; right: 0px; opacity: 1; cursor: pointer;">
