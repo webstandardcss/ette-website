@@ -15,6 +15,7 @@
         <a href="/about-us.php">About Us</a>
         <a href="/services.php">Services</a>
         <a href="/contact-us.php">Contact&nbsp;Us</a>
+        <a href="//etteonlinestore.com">Shop</a>
       </div>
     </div>
     <aside class="footer-content-after"></aside>

@@ -59,7 +59,7 @@
               <li><a href="/heavy-truck-services.php">Heavy Truck Services</a></li>
             </ul>    
         </li>
-        <li><a href="/gallery.php">The Gallery
+        <li><a href="/gallery.php">Gallery
               <span class="drop-icon">▾</span>
                 <label title="Toggle Drop-down" class="drop-icon" for="sm3">▾</label>
               </a>
@@ -127,5 +127,6 @@
               <li><a href="/location.php">Our Location</a></li>
             </ul>    
         </li>
+        <li><a href="//etteonlinestore.com">Shop</a></li>
       </ul>
     </nav>
