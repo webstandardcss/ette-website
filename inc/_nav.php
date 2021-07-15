@@ -76,9 +76,6 @@
     <a href="https://ette.tv/gallery.php#nanogallery/nanogallery2/Fuel_Tanks">Fuel Tanks</a>
 </li>
 <li>
-    <a href="https://ette.tv/gallery.php#nanogallery/nanogallery2/Gallery">Gallery</a>
-</li>
-<li>
     <a href="https://ette.tv/gallery.php#nanogallery/nanogallery2/Hitches">Hitches</a>
 </li>
 <li>
@@ -100,7 +97,7 @@
     <a href="https://ette.tv/gallery.php#nanogallery/nanogallery2/Steps">Steps</a>
 </li>
 <li>
-    <a href="https://ette.tv/gallery.php#nanogallery/nanogallery2/SUV's">SUV&rsquo;s</a>
+    <a href="https://ette.tv/gallery.php#nanogallery/nanogallery2/SUV%27s">SUV&rsquo;s</a>
 </li>
 <li>
     <a href="https://ette.tv/gallery.php#nanogallery/nanogallery2/Tool_Boxes">Tool Boxes</a>
