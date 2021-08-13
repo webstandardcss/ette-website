@@ -67,7 +67,7 @@
             
             <ul class="sub-menu">
 <li>
-    <a href="https://ette.tv/gallery.php#nanogallery/nanogallery2/Bed Covers">Bed Covers</a>
+    <a href="https://ette.tv/gallery.php#nanogallery/nanogallery2/Bed_Covers">Bed Covers</a>
 </li>
 <li>
     <a href="https://ette.tv/gallery.php#nanogallery/nanogallery2/Bumpers">Bumpers</a>
